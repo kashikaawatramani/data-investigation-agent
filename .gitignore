@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+/evidence/
+/synthetic_data/
+*_backup.py
